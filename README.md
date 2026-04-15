@@ -1,3 +1,10 @@
+<img width="505" height="682" alt="Screenshot 2026-04-14 at 10 35 39 PM" src="https://github.com/user-attachments/assets/81839555-a308-46fc-bfb0-0ccf252c5a09" />
+<img width="1255" height="776" alt="Screenshot 2026-04-14 at 10 35 25 PM" src="https://github.com/user-attachments/assets/7c1b689a-6b0e-42c6-9826-c9e53e5d0725" />
+<img width="1252" height="774" alt="Screenshot 2026-04-14 at 10 35 09 PM" src="https://github.com/user-attachments/assets/479720af-4926-42f2-9f64-708357189c44" />
+<img width="1512" height="829" alt="Screenshot 2026-04-14 at 10 31 51 PM" src="https://github.com/user-attachments/assets/c9ab683f-8107-48d0-a54c-3dd700ac497a" />
+<img width="1512" height="832" alt="Screenshot 2026-04-14 at 10 31 24 PM" src="https://github.com/user-attachments/assets/a5e7c590-082e-46a4-a9c8-517392986ffb" />
+
+
 # Repair Center POS System
 
 A full-stack point-of-sale system built for phone and computer repair shops. This project is designed to support real-world repair workflows by combining ticket management, inventory tracking, customer records, technician metrics, authentication, and payment integration into one scalable platform.
